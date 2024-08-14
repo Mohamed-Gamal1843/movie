@@ -1,0 +1,29 @@
+.add {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* width: 40%; */
+  margin: 30px 0;
+}
+.add input {
+  border: 0;
+  outline: 0;
+  padding: 8px 12px;
+  width: 400px;
+  border-radius: 7px;
+  background-color: #29384e;
+  background-color: #320866;
+  color: #fff;
+  margin-bottom: 40px;
+}
+.add input:focus {
+  box-shadow: 0px 0px 9px 3px #1eff23;
+  box-shadow: 0px 0px 9px 3px #aa1ae0;
+}
+.see_more {
+  border: 0px;
+  outline: 0px;
+  background: rgb(249, 255, 25);
+  border-radius: 6px;
+  padding: 7px 10px;
+}
